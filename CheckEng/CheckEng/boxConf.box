@@ -1,0 +1,9 @@
+#angles and box configuration (box size loaded with the conf file)
+#Angles in degrees
+
+#alpha
+90
+#beta
+90
+#gamma
+95.84

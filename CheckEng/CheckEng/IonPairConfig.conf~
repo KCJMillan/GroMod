@@ -1,0 +1,17 @@
+#Important : do not modify the comments below the line
+#You can add comment with : //comment or #comement . But not on the same line than a default comment
+#The program will search for specific comment for load config
+#
+#
+---------------------------------
+
+#Default output Path
+/home/kevinmillan/CheckEng/
+
+#Default output Name
+IonPair.eng
+
+#Critical Bond Lenght for ion pairing (nm)
+0.40000
+
+
